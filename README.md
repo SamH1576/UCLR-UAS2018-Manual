@@ -1,3 +1,4 @@
-# My Awesome Book
+# What is this manual for?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This manual is a central repository for storing imformation information 
+
