@@ -1,7 +1,9 @@
 # Summary
 
-* Manufacture
-  * [First Chapter](chapter1.md)
+* [Introduction](README.md)
 
+## Manufacture
 
+* [Chassis](chassis.md)
+* [Avionics](avionics.md)
 
