@@ -12,3 +12,7 @@
 * Sensor Calibration
 * Booting Up
 
+## Reference
+
+* [BMFA Handbook](reference/bmfa-handbook.md)
+
