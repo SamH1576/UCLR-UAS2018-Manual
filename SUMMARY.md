@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* Manufacture
+  * [First Chapter](chapter1.md)
+
+
+
