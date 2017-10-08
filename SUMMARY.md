@@ -7,3 +7,8 @@
 * [Chassis](chassis.md)
 * [Avionics](avionics.md)
 
+## Operation
+
+* Sensor Calibration
+* Booting Up
+
