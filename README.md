@@ -10,7 +10,5 @@ The manual is intended to be read by anyone who needs information pertaining to 
 
 Documentation is a vital part of engineering. It provides the designers with a reference, manufacturers with instructions and end-users something to totally ignore in favour of guessing.
 
-
-
-
+At the [UAS Challenge](http://www.imeche.org/uaschallenge) competition, scrutineers place emphasis on safety and procedure, including documentation and engineering-hygiene. This manual will list how to perform the various procedures involved in manufacturing and operating the aircraft in a safe manner.
 
