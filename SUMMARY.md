@@ -9,8 +9,8 @@
 
 ## Operation
 
-* Sensor Calibration
-* Booting Up
+* [Sensor Calibration](operation/sensor-calibration.md)
+* [Booting Up](operation/booting-up.md)
 
 ## Reference
 
@@ -20,8 +20,8 @@
 
 * [Product Requirements](requirements/product-requirements.md)
 * [Control System Requirements](requirements/control-system-requirements.md)
-* Power System Requirements
+* [Power System Requirements](requirements/power-system-requirements.md)
 * Power Transmission Requirements
-* Wing Requirements
-* Tail Requirements
+* [Wing Requirements](requirements/wing-requirements.md)
+* [Tail Requirements](requirements/tail-requirements.md)
 

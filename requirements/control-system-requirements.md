@@ -1,10 +1,10 @@
-# Control System Design Requirements
+# Control System Requirements
 
-#### Introduction:
+#### Introduction
 
 For our project we aim to build a plane capable of autonomous flight, including take-off and landing, automatic payload delivery and endurance. To make this possible, the control system requires a powerful CPU capable of filtering sensor data effectively, various sensors and means of communicating wirelessly, while also ensuring safe operation. This document aims to list all control requirements and state their importance.
 
-#### Requirements: {#control-requirements}
+#### Requirements {#control-requirements}
 
 | ID | Functional | Importance \(MoSCoW\) |
 | :---: | :--- | :---: |
