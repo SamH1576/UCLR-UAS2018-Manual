@@ -4,9 +4,9 @@
 
 For our project we aim to build a plane capable of autonomous flight, including take-off and landing, automatic payload delivery and endurance. To make this possible, the control system requires a powerful CPU capable of filtering sensor data effectively, various sensors and means of communicating wirelessly, while also ensuring safe operation. This document aims to list all control requirements and state their importance.
 
-#### Requirements {#control-requirements}
+#### Functional Requirements {#control-requirements}
 
-| ID | Functional | Importance \(MoSCoW\) |
+| ID | Requirement | Importance \(MoSCoW\) |
 | :---: | :--- | :---: |
 | CSR:F001 | Control system should enable, on command, autonomous takeoff of the aircraft within 30m of starting location | Should |
 | CSR:F002 | Control system should enable, on command, autonomous landing of the aircraft within 30m area, including touchdown and rollout | Should |
@@ -24,7 +24,9 @@ For our project we aim to build a plane capable of autonomous flight, including 
 | CSR:F014 | Control system must use rado equipment which is ‘Spread Spectrum’ compliant, as required by the competition rules | Must |
 | CSR:F015 | Control system could implement a location finder system, activated upon crash landing, to aid locating the airframe | Could |
 
-| ID | Safety | Importance \(MoSCoW\) |
+#### Safety Requirements
+
+| ID | Requirement | Importance \(MoSCoW\) |
 | :--- | :--- | :--- |
 | CSR:S001 | Control system must be incorporate a Flight Termination System, as mandated by the competition rules, both automatically activated on loss of communication with aircraft and manually selectable by the operator | Must |
 | CSR:S002 | Control system must prosecute Flight Termination System commands within 10 seconds of activation or uplink loss | Must |
